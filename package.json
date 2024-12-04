@@ -22,7 +22,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zlkcyber/oasis-bot.git"
+    "url": "git+https://github.com/adhe222/oasis-bot.git"
   },
   "keywords": [
     "oasis-bot",
@@ -32,7 +32,7 @@
     "https://oasis.ai"
   ],
   "bugs": {
-    "url": "https://github.com/Zlkcyber/oasis-bot/issues"
+    "url": "https://github.com/adhe222/oasis-bot/issues"
   },
-  "homepage": "https://github.com/Zlkcyber/oasis-bot#readme"
+  "homepage": "https://github.com/adhe222/oasis-bot#readme"
 }
