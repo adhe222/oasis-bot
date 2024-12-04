@@ -65,3 +65,4 @@ so if you want create multiple providers you need to put multiple proxy there.
    ```bash
    npm run start
    ```
+source: https://github.com/Zlkcyber/oasis-bot
