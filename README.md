@@ -65,4 +65,9 @@ so if you want create multiple providers you need to put multiple proxy there.
    ```bash
    npm run start
    ```
+7. Run autoreff and get token
+
+   ```bash
+   npm run autoreff
+   ```
 source: https://github.com/Zlkcyber/oasis-bot
